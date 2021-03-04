@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3dcfb4f6-45bf-4f74-9314-8b5ae26dfedd" name="Default Changelist" comment="Enum exercise">
       <changelist_data name="ViFLara" email="viviflara@gmail.com" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/udemy/course/exercise9/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/udemy/course/exercise9/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/udemy/course/exercise9/HourContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/udemy/course/exercise9/HourContract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/udemy/course/exercise9/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/udemy/course/exercise9/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/udemy/course/exercise9/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/udemy/course/exercise9/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/udemy/course/exercise9/WorkerLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/udemy/course/exercise9/WorkerLevel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,6 +202,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
