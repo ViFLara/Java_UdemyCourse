@@ -1,4 +1,4 @@
-package udemy.course.exercise9;
+package udemy.course.exercise10;
 
 public class Department {
 
